@@ -1,0 +1,2 @@
+# memorychip
+memorychip forget app
